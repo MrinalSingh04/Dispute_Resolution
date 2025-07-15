@@ -55,7 +55,7 @@ Juror votes are used to settle disputes in a transparent, decentralized manner â
 ## ðŸš€ How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/dispute-resolution-contract.git
+git clone https://github.com/MrinalSingh04/Dispute_Resolution
 cd dispute-resolution-contract
 npm install
 npx hardhat compile
