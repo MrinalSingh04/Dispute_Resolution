@@ -34,7 +34,6 @@ Juror votes are used to settle disputes in a transparent, decentralized manner â
 
 - **Solidity v0.8.24+**
 - **Hardhat** for local development/testing
-- **JavaScript** (for deployment scripts/tests)
 
 ---
 
